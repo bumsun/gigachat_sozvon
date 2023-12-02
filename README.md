@@ -13,4 +13,4 @@
 [![Watch the video](https://img.youtube.com/vi/oABQIBIhDxc/sddefault.jpg)](https://www.youtube.com/watch?v=oABQIBIhDxc)
 
 
-[![block_diagram](block_diagram.jpg)]
+![block_diagram](block_diagram.jpg)
