@@ -11,7 +11,7 @@
 ## AI помощник для написания стайте и генерации картинок
 
 Видео демонстрация работы AI помощника по написанию статей и возможность быстрой авторизации в роли эксперта через ссылку.
-[Ссылка](https://sozvon.pro/create_blog_post?token=dZQs8EmuTrOUixSggg831685183100270) для быстрого тестирования написания статей
+[Ссылка](https://sozvon.pro/create_blog_post?token=dZQs8EmuTrOUixSggg831685183100270) для быстрого тестирования написания статей.
 
 [![Watch the video](https://img.youtube.com/vi/oABQIBIhDxc/sddefault.jpg)](https://www.youtube.com/watch?v=oABQIBIhDxc)
 
