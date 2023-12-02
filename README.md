@@ -1,3 +1,3 @@
 # gigachat_sozvon
 
-[![IMAGE ALT TEXT HERE](](https://www.youtube.com/watch?v=GO-So4dMPqQ)
+([https://youtu.be/nTQUwghvy5Q](https://www.youtube.com/watch?v=GO-So4dMPqQ)https://www.youtube.com/watch?v=GO-So4dMPqQ)
