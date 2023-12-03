@@ -15,6 +15,8 @@
 
 [![Watch the video](https://img.youtube.com/vi/oABQIBIhDxc/sddefault.jpg)](https://www.youtube.com/watch?v=oABQIBIhDxc)
 
+Видео демонстрирует работу подсказок при написании статей
+[![Watch the video](https://img.youtube.com/vi/OZJERyUyuA8/sddefault.jpg)](https://www.youtube.com/watch?v=OZJERyUyuA8)
 
 ## AI репетитор, который по сценарию и взаимодействию с Gigachat обучает пользователей программированию
 
