@@ -18,6 +18,8 @@
 Видео демонстрирует работу подсказок при написании статей
 [![Watch the video](https://img.youtube.com/vi/OZJERyUyuA8/sddefault.jpg)](https://www.youtube.com/watch?v=OZJERyUyuA8)
 
+По [cсылке](https://github.com/bumsun/gigachat_sozvon/blob/main/CreateBlogPost.js) можно ознакомиться с React JS кодом, который отвечает за умное написание статей.
+
 ## AI репетитор, который по сценарию и взаимодействию с Gigachat обучает пользователей программированию
 
 Видео демонстрирует работу бота и возможность быстрой авторизации.
