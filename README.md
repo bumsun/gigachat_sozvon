@@ -23,7 +23,7 @@
 Видео демонстрирует работу бота и возможность быстрой авторизации.
 [![Watch the video](https://img.youtube.com/vi/GO-So4dMPqQ/sddefault.jpg)](https://www.youtube.com/watch?v=GO-So4dMPqQ)
 
-По [cсылке](https://github.com/bumsun/gigachat_sozvon/blob/main/gigachat_bot.js) можно ознакомиться с кодом, который отвечает за поведение бота.
+По [cсылке](https://github.com/bumsun/gigachat_sozvon/blob/main/gigachat_bot.js) можно ознакомиться с Node JS кодом, который отвечает за поведение бота.
 
 Ниже представлена логика работы реализованного AI бота.
 ![block_diagram](block_diagram.jpg)
